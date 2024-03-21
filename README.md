@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Junjie Guo</h1>
-<h3 align="center">An undergraduate from Hainan University</h3>
+<h1 align="center">Hi 👋, I'm JJ</h1>
+<h3 align="center">An undergraduate </h3>
 
 - 📫 How to reach me **Dawning88888888@gmail.com**
 
